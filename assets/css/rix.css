@@ -1,0 +1,29 @@
+
+
+.rixlogo {
+width: 120px;
+min-height: 150px;
+padding:0 20px 40px 0;
+margin: 0 auto;
+
+  background-image: url("../../images/rf_logo.svg");
+  background-repeat: no-repeat;
+  background-size: 110px;
+
+}
+
+
+.text-left {
+  text-align: left;
+}
+
+#modal1
+{
+  visibility: none;
+}
+
+
+.bigger {
+
+  font-size: 25px;
+}
