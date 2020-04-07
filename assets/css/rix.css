@@ -1,4 +1,9 @@
+@keyframes astrobounce {
 
+  0% {margin: 100px; }
+  50% {margin-top: 140px; margin-left:105px; }
+  100% {margin:100px; }
+}
 
 .rixlogo {
 width: 120px;
@@ -32,4 +37,8 @@ margin: 0 auto;
 
   max-width: 325px;
   margin:100px;
+  animation-name: astrobounce;
+  animation-duration: 7s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
 }
